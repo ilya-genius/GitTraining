@@ -1,0 +1,7 @@
+G:\projects\Stroki\Stroki\bin\Debug\Stroki.exe.config
+G:\projects\Stroki\Stroki\bin\Debug\Stroki.exe
+G:\projects\Stroki\Stroki\bin\Debug\Stroki.pdb
+G:\projects\Stroki\Stroki\obj\Debug\Stroki.csprojAssemblyReference.cache
+G:\projects\Stroki\Stroki\obj\Debug\Stroki.csproj.CoreCompileInputs.cache
+G:\projects\Stroki\Stroki\obj\Debug\Stroki.exe
+G:\projects\Stroki\Stroki\obj\Debug\Stroki.pdb
