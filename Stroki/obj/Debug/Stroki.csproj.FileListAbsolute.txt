@@ -5,3 +5,7 @@ G:\projects\Stroki\Stroki\obj\Debug\Stroki.csprojAssemblyReference.cache
 G:\projects\Stroki\Stroki\obj\Debug\Stroki.csproj.CoreCompileInputs.cache
 G:\projects\Stroki\Stroki\obj\Debug\Stroki.exe
 G:\projects\Stroki\Stroki\obj\Debug\Stroki.pdb
+G:\projects\Stroki2\GitTraining\Stroki\obj\Debug\Stroki.csprojAssemblyReference.cache
+G:\projects\Stroki2\GitTraining\Stroki\obj\Debug\Stroki.csproj.CoreCompileInputs.cache
+G:\projects\Stroki2\GitTraining\Stroki\obj\Debug\Stroki.exe
+G:\projects\Stroki2\GitTraining\Stroki\obj\Debug\Stroki.pdb

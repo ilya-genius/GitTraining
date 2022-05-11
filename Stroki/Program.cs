@@ -10,11 +10,13 @@ namespace Stroki
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-            int a = 5;
-            Console.WriteLine(a);
-            object x = a;
-            Console.WriteLine(x);
+            Console.WriteLine("Hello World");
+            List<int> mas = new List<int>();
+            mas.AddRange(new int[] { 2,3,5});
+            foreach (var el in mas)
+            {
+                Console.WriteLine(el);
+            }
             Console.ReadKey();
         }
     }
