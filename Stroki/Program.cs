@@ -13,6 +13,8 @@ namespace Stroki
             Console.WriteLine("Hello world");
             int a = 5;
             Console.WriteLine(a);
+            object x = a;
+            Console.WriteLine(x);
             Console.ReadKey();
         }
     }
